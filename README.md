@@ -1,6 +1,6 @@
 ## Hi there, I'm Larissa Novakoski!
 
-🌱 I’m currently learning C# language and database with SQL.
+🌱 I’m currently learning C# language and database with SQL. /
 💬 Ask me about anything.
 📫 How to reach me: www.linkedin.com/in/larissa-novakoski/
 

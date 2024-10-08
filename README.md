@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning C# language and database with SQL.
 💬 Ask me about anything.
-📫 How to reach me: https://www.linkedin.com/in/larissa-novakoski-117a33189/
+📫 How to reach me: linkedin.com/in/larissa-novakoski
 
   <div>
     <a href="https://github.com/LarissaNovakoski">
